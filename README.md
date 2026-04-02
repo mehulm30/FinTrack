@@ -2,7 +2,7 @@
 
 A clean, interactive personal finance dashboard built with React. Track transactions, visualize spending patterns, and gain insights into your financial health.
 
-#To start: npm run dev
+To start: npm run dev
 
 ---
 
